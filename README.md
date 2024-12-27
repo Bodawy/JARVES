@@ -1,3 +1,4 @@
+![JARVES Logo](https://github.com/Bodawy/JARVES/blob/d7c7feeadf4d60137908959f14cb22bd01d81940/JARVES.png)
 # JARVIS
 
 JARVIS is a personal assistant program designed to help with various tasks such as setting alarms, reading news, translating text, and more. It uses speech recognition and text-to-speech technologies to interact with the user.
